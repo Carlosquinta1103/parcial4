@@ -8,7 +8,7 @@ import androidx.annotation.Nullable;
 
 public class BaseDhelper extends SQLiteOpenHelper {
 
-    private static final int DATABASE_VERSION =1;
+    private static final int DATABASE_VERSION =2;
     private static final String DATABASE_NOMBRE ="parcial4_venta_auto";
     private static final String TABLA_MD_CLIENTES ="MD_CLIENTES";
 
